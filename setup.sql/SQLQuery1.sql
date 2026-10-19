@@ -1,0 +1,14 @@
+CREATE TABLE dbo.TRIVIA_KAT_DOKIC
+(
+    Id INT NOT NULL PRIMARY KEY,
+    category VARCHAR(80) NOT NULL
+);
+
+CREATE TABLE dbo.TRIVIA_DOKIC
+(
+    name VARCHAR(50) NOT NULL,
+    score INT NOT NULL,
+    time VARCHAR(50) NOT NULL,
+    category VARCHAR(80) NOT NULL,
+    difficulty VARCHAR(20) NOT NULL
+);

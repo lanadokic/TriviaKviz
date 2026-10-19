@@ -1,0 +1,45 @@
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.MainForm.resources
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.QuizForm.resources
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.LeaderboardForm.resources
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.MainForm.resources
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.QuizForm.resources
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.LeaderboardForm.resources
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Admin\Downloads\TriviaKviz\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.MainForm.resources
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.QuizForm.resources
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Forms.LeaderboardForm.resources
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\PresentationLayer\obj\Debug\PresentationLayer.pdb

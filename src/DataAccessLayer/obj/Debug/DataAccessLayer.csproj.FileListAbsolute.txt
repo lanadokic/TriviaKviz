@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\TriviaKviz_LV5Style_VS2019\TriviaKviz_LV5Style_VS2019\src\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Admin\Downloads\TriviaKviz (2)\TriviaKviz\src\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
